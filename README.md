@@ -1,2 +1,2 @@
-# Calistus-
-Nitda
+
+nidta-blockchain-scholarship
